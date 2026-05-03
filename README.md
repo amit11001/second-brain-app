@@ -1,4 +1,3 @@
-
 # 🧠 Second Brain - AI-Powered Note Application
 
 Second Brain is a full-stack web application designed to help you capture your thoughts and automatically generate concise summaries using Artificial Intelligence. Built with a modern tech stack, it features secure user authentication and a clean, intuitive user interface.
